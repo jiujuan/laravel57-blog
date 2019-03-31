@@ -1,4 +1,4 @@
-学习 <b>Laravel学院</b>的blog教程，写的blog，地址： https://laravelacademy.org/laravel-blog-tutorial
+学习 <b>Laravel学院</b> 的blog教程，写的代码，地址： https://laravelacademy.org/laravel-blog-tutorial
 
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
